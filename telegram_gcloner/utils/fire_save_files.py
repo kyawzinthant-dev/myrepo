@@ -32,7 +32,8 @@ class MySaveFileThread(threading.Thread):
         self.owner = update.effective_user.id
         thread_id = self.ident
         is_multiple_ids = len(folder_ids) > 1
-        is_fclone = 'fclone' in os.path.basename(config.PATH_TO_GCLONE)
+        #is_fclone = 'fclone' in os.path.basename(config.PATH_TO_GCLONE)
+        is_fclone = False
         chat_id = update.effective_chat.id
         user_id = update.effective_user.id
         gd = GoogleDrive(user_id)
@@ -74,9 +75,9 @@ class MySaveFileThread(threading.Thread):
             else:
                 command_line += [
                     '--transfers',
-                    '8',
-                    '--tpslimit',
-                    '6',
+                    '20',
+                    '--drive-chunk-size=256M',
+                    '--check-first'
                 ]
             gclone_config = os.path.join(config.BASE_PATH,
                                          'gclone_config',
@@ -88,6 +89,7 @@ class MySaveFileThread(threading.Thread):
                 '{}:{{{}}}'.format('src', folder_id),
                 ('{}:{{{}}}/{}'.format('gc', dest_folder['folder_id'], destination_path))
             ]
+            print(command_line)
 
             logger.debug('command line: ' + str(command_line))
 
@@ -189,6 +191,7 @@ class MySaveFileThread(threading.Thread):
                             logger.debug('Error {} occurs when editing message {} for user {} in chat {}: \n{}'.format(
                                 e, message_id, user_id, chat_id, temp_message))
                         process.terminate()
+                        print("Write Permission")
                         self.critical_fault = True
                         break
 
@@ -206,6 +209,7 @@ class MySaveFileThread(threading.Thread):
                             logger.debug('Error {} occurs when editing message {} for user {} in chat {}: \n{}'.format(
                                 e, message_id, user_id, chat_id, temp_message))
                         process.terminate()
+                        print("Read Permission Error")
                         self.critical_fault = True
                         break
 
@@ -231,13 +235,7 @@ class MySaveFileThread(threading.Thread):
 
             rc = process.poll()
             message_progress_heading, message_progress_content = message_progress.split('\n', 1)
-            link_text = 'Unable to get link.'
-            try:
-                link = gd.get_folder_link(dest_folder['folder_id'], destination_path)
-                if link:
-                    link_text = '👉<a href="{}">Link</a>'.format(link)
-            except Exception as e:
-                logger.info(str(e))
+            link_text = ''
 
             if self.critical_fault is True:
                 message = '{}{}❌\n{}\n{}\n\n'.format(message, message_progress_heading, message_progress_content,

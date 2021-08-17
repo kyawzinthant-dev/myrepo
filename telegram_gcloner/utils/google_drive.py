@@ -63,7 +63,7 @@ class GoogleDrive:
         return drive_dict
 
     def get_file_name(self, file_id):
-        return "Client Copy"
+        return "Clone"
 
     def get_file_path_from_id(self, file_id, parents=[]):
         result = copy.deepcopy(parents)
