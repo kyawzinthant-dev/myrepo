@@ -1,0 +1,51 @@
+2021-08-17 20:32:42,559 - utils.config_loader - DEBUG - Loading config
+2021-08-17 20:32:42,560 - utils.config_loader - INFO - Found telegram_token: 1957921201:AAGo6vbjLEekCibU0lYWq_Kf44_FH7DkF_k
+2021-08-17 20:32:42,560 - utils.config_loader - INFO - Found user_ids: 1946475880
+2021-08-17 20:32:42,560 - utils.config_loader - INFO - Found group_ids: -1
+2021-08-17 20:32:42,560 - utils.config_loader - INFO - Found path_to_gclone: ../fclone
+2021-08-17 20:32:42,560 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-08-17 20:32:42,561 - utils.config_loader - WARNING - gclone executable is not found.
+2021-08-17 20:32:59,945 - utils.config_loader - DEBUG - Loading config
+2021-08-17 20:32:59,945 - utils.config_loader - INFO - Found telegram_token: 1957921201:AAGo6vbjLEekCibU0lYWq_Kf44_FH7DkF_k
+2021-08-17 20:32:59,945 - utils.config_loader - INFO - Found user_ids: 1946475880
+2021-08-17 20:32:59,946 - utils.config_loader - INFO - Found group_ids: -1
+2021-08-17 20:32:59,946 - utils.config_loader - INFO - Found path_to_gclone: ./fclone
+2021-08-17 20:32:59,946 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-08-17 20:32:59,946 - utils.config_loader - INFO - Found gclone: ./fclone
+2021-08-17 20:32:59,946 - utils.config_loader - INFO - Found token: 1957921201:AAGo6vbjLEekCibU0lYWq_Kf44_FH7DkF_k
+2021-08-17 20:33:00,183 - __main__ - INFO - loaded handler module: process_drive_links
+2021-08-17 20:33:00,184 - __main__ - INFO - loaded handler module: cancel
+2021-08-17 20:33:00,185 - __main__ - INFO - loaded handler module: get_help
+2021-08-17 20:33:00,186 - __main__ - INFO - loaded handler module: start
+2021-08-17 20:33:00,188 - __main__ - INFO - loaded handler module: vip
+2021-08-17 20:33:00,189 - __main__ - INFO - loaded handler module: ban
+2021-08-17 20:33:00,190 - __main__ - INFO - loaded handler module: stop_task
+2021-08-17 20:33:00,192 - __main__ - INFO - loaded handler module: choose_folder
+2021-08-17 20:33:00,195 - __main__ - INFO - loaded handler module: sa
+2021-08-17 20:33:00,196 - __main__ - INFO - loaded handler module: add_group
+2021-08-17 20:33:00,198 - __main__ - INFO - loaded handler module: contact
+2021-08-17 20:33:00,199 - __main__ - INFO - loaded handler module: get_id
+2021-08-17 20:33:00,201 - __main__ - INFO - loaded handler module: process_message
+2021-08-17 20:33:00,201 - apscheduler.scheduler - INFO - Scheduler started
+2021-08-17 20:33:00,201 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-08-17 20:33:00,202 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-08-17 20:33:10,257 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/Library/Python/3.8/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/Library/Python/3.8/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/Library/Python/3.8/site-packages/telegram/ext/dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Library/Python/3.8/site-packages/telegram/ext/handler.py", line 198, in handle_update
+    return self.callback(update, context)
+  File "/Users/alphakas/Downloads/Fclone_Tg_Bot-master/telegram_gcloner/utils/restricted.py", line 49, in wrapped
+    return func(update, context, *args, **kwargs)
+  File "/Users/alphakas/Downloads/Fclone_Tg_Bot-master/telegram_gcloner/handlers/sa.py", line 109, in get_sa
+    token_file = open(os.path.join(d+os.sep+"telegram_gcloner"+os.sep+"token.json"),"r")
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/alphakas/Downloads/telegram_gcloner/token.json'
+2021-08-17 20:33:47,248 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-08-17 20:33:47,249 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-08-17 20:33:47,249 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-08-17 20:33:47,249 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-08-17 20:33:47,408 - telegram.ext.updater - WARNING - Exiting immediately!
