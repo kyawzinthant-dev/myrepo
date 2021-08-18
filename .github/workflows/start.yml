@@ -1,0 +1,42 @@
+name: Bot Set Up
+
+on: workflow_dispatch
+
+jobs: 
+  build:
+    name: Setting up Bot Environment
+    runs-on: ubuntu-latest
+    steps:
+      - name: Installing Required Environment
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install Python3
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-cli.txt
+      - name: Installing dependencies
+        run: pip3 install -r requirements.txt
+      - name: Giving Permission
+        run: chmod 777 fclone
+      - name: Running the bot
+        run: |
+          cd telegram_gcloner
+          python3 telegram_gcloner.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
