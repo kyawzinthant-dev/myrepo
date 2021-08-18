@@ -65,7 +65,7 @@ def process_drive_links(update, context):
 
     if not folder_ids:
         return
-    message = 'The following files were detected:\n'
+    message = 'The following action will be performed:\n'
 
     try:
         gd = GoogleDrive(update.effective_user.id)
