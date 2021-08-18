@@ -75,8 +75,8 @@ class MySaveFileThread(threading.Thread):
             else:
                 command_line += [
                     '--transfers',
-                    '20',
-                    '--drive-chunk-size=256M',
+                    '15',
+                    '--drive-chunk-size=64M',
                 ]
             gclone_config = os.path.join(config.BASE_PATH,
                                          'gclone_config',
