@@ -77,7 +77,6 @@ class MySaveFileThread(threading.Thread):
                     '--transfers',
                     '20',
                     '--drive-chunk-size=256M',
-                    '--check-first'
                 ]
             gclone_config = os.path.join(config.BASE_PATH,
                                          'gclone_config',
@@ -89,7 +88,6 @@ class MySaveFileThread(threading.Thread):
                 '{}:{{{}}}'.format('src', folder_id),
                 ('{}:{{{}}}/{}'.format('gc', dest_folder['folder_id'], destination_path))
             ]
-            print(command_line)
 
             logger.debug('command line: ' + str(command_line))
 
