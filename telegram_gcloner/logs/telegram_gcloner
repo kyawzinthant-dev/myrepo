@@ -1,0 +1,549 @@
+2021-09-03 14:28:58,637 - utils.config_loader - DEBUG - Loading config
+2021-09-03 14:28:58,637 - utils.config_loader - INFO - Found telegram_token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 14:28:58,637 - utils.config_loader - INFO - Found user_ids: 1946475880
+2021-09-03 14:28:58,637 - utils.config_loader - INFO - Found group_ids: -1
+2021-09-03 14:28:58,638 - utils.config_loader - INFO - Found path_to_gclone: ../fclone
+2021-09-03 14:28:58,638 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-09-03 14:28:58,638 - utils.config_loader - INFO - Found gclone: ../fclone
+2021-09-03 14:28:58,638 - utils.config_loader - INFO - Found token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 14:28:58,642 - __main__ - INFO - loaded handler module: get_id
+2021-09-03 14:28:58,644 - __main__ - INFO - loaded handler module: contact
+2021-09-03 14:28:58,644 - __main__ - INFO - loaded handler module: start
+2021-09-03 14:30:26,516 - utils.config_loader - DEBUG - Loading config
+2021-09-03 14:30:26,517 - utils.config_loader - INFO - Found telegram_token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 14:30:26,517 - utils.config_loader - INFO - Found user_ids: 1946475880
+2021-09-03 14:30:26,517 - utils.config_loader - INFO - Found group_ids: -1
+2021-09-03 14:30:26,517 - utils.config_loader - INFO - Found path_to_gclone: ../fclone
+2021-09-03 14:30:26,517 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-09-03 14:30:26,517 - utils.config_loader - INFO - Found gclone: ../fclone
+2021-09-03 14:30:26,517 - utils.config_loader - INFO - Found token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 14:30:26,520 - __main__ - INFO - loaded handler module: get_id
+2021-09-03 14:30:26,520 - __main__ - INFO - loaded handler module: contact
+2021-09-03 14:30:26,520 - __main__ - INFO - loaded handler module: start
+2021-09-03 14:34:45,129 - utils.config_loader - DEBUG - Loading config
+2021-09-03 14:34:45,130 - utils.config_loader - INFO - Found telegram_token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 14:34:45,130 - utils.config_loader - INFO - Found user_ids: 1946475880
+2021-09-03 14:34:45,130 - utils.config_loader - INFO - Found group_ids: -1
+2021-09-03 14:34:45,130 - utils.config_loader - INFO - Found path_to_gclone: ../fclone
+2021-09-03 14:34:45,130 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-09-03 14:34:45,130 - utils.config_loader - INFO - Found gclone: ../fclone
+2021-09-03 14:34:45,131 - utils.config_loader - INFO - Found token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 14:34:45,134 - __main__ - INFO - loaded handler module: get_id
+2021-09-03 14:34:45,134 - __main__ - INFO - loaded handler module: contact
+2021-09-03 14:34:45,134 - __main__ - INFO - loaded handler module: start
+2021-09-03 14:34:45,275 - __main__ - INFO - loaded handler module: process_drive_links
+2021-09-03 14:34:45,277 - __main__ - INFO - loaded handler module: ban
+2021-09-03 14:34:45,280 - __main__ - INFO - loaded handler module: choose_folder
+2021-09-03 14:34:45,281 - __main__ - INFO - loaded handler module: get_help
+2021-09-03 14:34:45,282 - __main__ - INFO - loaded handler module: vip
+2021-09-03 14:34:45,283 - __main__ - INFO - loaded handler module: stop_task
+2021-09-03 14:34:45,284 - __main__ - INFO - loaded handler module: cancel
+2021-09-03 14:34:45,287 - __main__ - INFO - loaded handler module: sa
+2021-09-03 14:34:45,288 - __main__ - INFO - loaded handler module: add_group
+2021-09-03 14:34:45,290 - __main__ - INFO - loaded handler module: process_message
+2021-09-03 14:34:45,290 - apscheduler.scheduler - INFO - Scheduler started
+2021-09-03 14:34:45,291 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-09-03 14:34:45,291 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-09-03 14:35:06,515 - handlers.sa - INFO - 200 service account files have been saved for 1946475880.
+2021-09-03 14:35:11,126 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:35:11,157 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:35:11,163 - handlers.choose_folder - DEBUG - 1946475880: choose_folder
+2021-09-03 14:35:11,588 - utils.google_drive - DEBUG - Received 20 drives
+2021-09-03 14:35:14,001 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:35:14,021 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:35:14,026 - handlers.choose_folder - DEBUG - 1946475880: choose_folder_page#2
+2021-09-03 14:35:16,172 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:35:16,193 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:35:16,197 - handlers.choose_folder - DEBUG - 1946475880: choose_folder_page#2,0AOMvwHSOeQdvUk9PVA
+2021-09-03 14:35:19,129 - utils.google_drive - DEBUG - Received 1000 files
+2021-09-03 14:35:20,414 - utils.google_drive - DEBUG - Received 296 files
+2021-09-03 14:35:20,732 - utils.google_drive - DEBUG - [{'name': 'viewerbackup', 'folder_id': '0AOMvwHSOeQdvUk9PVA'}]
+2021-09-03 14:35:23,072 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:35:23,091 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:35:23,398 - utils.google_drive - DEBUG - [{'name': 'viewerbackup', 'folder_id': '0AOMvwHSOeQdvUk9PVA'}]
+2021-09-03 14:35:49,043 - handlers.process_message - DEBUG - {'group_chat_created': False, 'chat': {'id': 1946475880, 'type': 'private', 'first_name': 'alpha'}, 'photo': [], 'channel_chat_created': False, 'text': 'https://drive.google.com/drive/u/0/folders/17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ', 'caption_entities': [], 'date': 1630679748, 'entities': [{'type': 'url', 'length': 76, 'offset': 0}], 'new_chat_photo': [], 'supergroup_chat_created': False, 'delete_chat_photo': False, 'message_id': 290, 'new_chat_members': [], 'from': {'language_code': 'en', 'is_bot': False, 'id': 1946475880, 'first_name': 'alpha'}}
+2021-09-03 14:35:49,045 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 14:35:49,045 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/0/folders/17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:35:49,045 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 14:35:49,045 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:35:49,048 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:35:49,068 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:35:51,049 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:35:51,049 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 14:35:51,049 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:35:51,050 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140039319959296.
+2021-09-03 14:35:51,054 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:35:51,073 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:35:51,589 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=100', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ}', 'gc:{0AOMvwHSOeQdvUk9PVA}']
+2021-09-03 14:44:38,447 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140039319959296: 
+Target directory：/viewerbackup
+
+<a href="https://drive.google.com/open?id=17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ">Viewer Access Direct Cloning</a>❌
+Checks： <code>10025 / 10025</code>
+Transfers： <code>380 / 14544</code>
+File size：<code>320.187G / 842.010 GBytes</code>
+Speed：<code>912.847 MBytes/s ETA 9m45s</code>
+Progress：<code>[░░░       ]    3%</code>
+
+
+Finished.
+2021-09-03 14:44:54,702 - handlers.process_message - DEBUG - {'group_chat_created': False, 'chat': {'id': 1946475880, 'type': 'private', 'first_name': 'alpha'}, 'photo': [], 'channel_chat_created': False, 'text': 'https://drive.google.com/drive/u/0/folders/17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ', 'caption_entities': [], 'date': 1630680294, 'entities': [{'type': 'url', 'length': 76, 'offset': 0}], 'new_chat_photo': [], 'supergroup_chat_created': False, 'delete_chat_photo': False, 'message_id': 293, 'new_chat_members': [], 'from': {'language_code': 'en', 'is_bot': False, 'id': 1946475880, 'first_name': 'alpha'}}
+2021-09-03 14:44:54,702 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 14:44:54,702 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/0/folders/17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:44:54,702 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 14:44:54,702 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:44:54,724 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:44:54,763 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:44:56,522 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:44:56,522 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 14:44:56,522 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:44:56,522 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140039319959296.
+2021-09-03 14:44:56,526 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:44:56,545 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:44:56,907 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=100', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ}', 'gc:{0AOMvwHSOeQdvUk9PVA}']
+2021-09-03 14:45:09,128 - handlers.stop_task - INFO - User 1946475880 has stopped task 140039319959296
+2021-09-03 14:45:10,559 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140039319959296: 
+Target directory：/viewerbackup
+
+<a href="https://drive.google.com/open?id=17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ">Viewer Access Direct Cloning</a>❌
+Checks： <code>730 / 730</code>
+Transfers： <code>0 / 82</code>
+File size：<code>0 / 357.475 GBytes</code>
+Speed：<code>0 Bytes/s ETA -</code>
+Progress：<code>[          ]    0%</code>
+<code>User terminated</code>
+
+
+Finished.
+2021-09-03 14:45:10,883 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-09-03 14:45:10,887 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-09-03 14:45:10,888 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-09-03 14:45:10,888 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-09-03 14:45:11,010 - telegram.ext.updater - WARNING - Exiting immediately!
+2021-09-03 14:46:57,802 - utils.config_loader - DEBUG - Loading config
+2021-09-03 14:46:57,803 - utils.config_loader - INFO - Found telegram_token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 14:46:57,803 - utils.config_loader - INFO - Found user_ids: 1946475880
+2021-09-03 14:46:57,803 - utils.config_loader - INFO - Found group_ids: -1
+2021-09-03 14:46:57,803 - utils.config_loader - INFO - Found path_to_gclone: ../fclone
+2021-09-03 14:46:57,803 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-09-03 14:46:57,803 - utils.config_loader - INFO - Found gclone: ../fclone
+2021-09-03 14:46:57,803 - utils.config_loader - INFO - Found token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 14:46:57,813 - __main__ - INFO - loaded handler module: get_id
+2021-09-03 14:46:57,814 - __main__ - INFO - loaded handler module: contact
+2021-09-03 14:46:57,815 - __main__ - INFO - loaded handler module: start
+2021-09-03 14:46:58,104 - __main__ - INFO - loaded handler module: process_drive_links
+2021-09-03 14:46:58,106 - __main__ - INFO - loaded handler module: ban
+2021-09-03 14:46:58,108 - __main__ - INFO - loaded handler module: choose_folder
+2021-09-03 14:46:58,108 - __main__ - INFO - loaded handler module: get_help
+2021-09-03 14:46:58,109 - __main__ - INFO - loaded handler module: vip
+2021-09-03 14:46:58,110 - __main__ - INFO - loaded handler module: stop_task
+2021-09-03 14:46:58,111 - __main__ - INFO - loaded handler module: cancel
+2021-09-03 14:46:58,114 - __main__ - INFO - loaded handler module: sa
+2021-09-03 14:46:58,115 - __main__ - INFO - loaded handler module: add_group
+2021-09-03 14:46:58,116 - __main__ - INFO - loaded handler module: process_message
+2021-09-03 14:46:58,117 - apscheduler.scheduler - INFO - Scheduler started
+2021-09-03 14:46:58,117 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-09-03 14:46:58,118 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-09-03 14:47:00,830 - handlers.process_message - DEBUG - {'new_chat_members': [], 'photo': [], 'supergroup_chat_created': False, 'new_chat_photo': [], 'caption_entities': [], 'group_chat_created': False, 'entities': [{'offset': 0, 'length': 368, 'type': 'code'}], 'channel_chat_created': False, 'text': '{"access_token":"ya29.a0ARrdaM_OxcygJZTDZTp8F_U_xuIzLWqLnbp8l-aCjBQxAGwlEa-aVFTGs3bGVH3gq1pGtZOVitMUALMd2y7a8m37BZnvi3IIEHbfByhZ9KAfLBg2q7PxxqCfkaVT1lBaJwu47ab35Ua300wtJUiiVwvBq5VT","token_type":"Bearer","refresh_token":"1//04MYJdpUodbKRCgYIARAAGAQSNwF-L9IrmPvlNIurxUQgn10XFkQX3T2fbiyAKxMO1L7rN31NsXVvRNkXpopTGGryOcFZSUL1iHk","expiry":"2021-09-03T15:46:31.963134373Z"}', 'delete_chat_photo': False, 'chat': {'type': 'private', 'first_name': 'alpha', 'id': 1946475880}, 'message_id': 297, 'date': 1630680420, 'from': {'language_code': 'en', 'first_name': 'alpha', 'is_bot': False, 'id': 1946475880}}
+2021-09-03 14:47:05,670 - handlers.process_message - DEBUG - {'new_chat_members': [], 'photo': [], 'supergroup_chat_created': False, 'new_chat_photo': [], 'caption_entities': [], 'group_chat_created': False, 'entities': [{'offset': 0, 'length': 76, 'type': 'url'}], 'channel_chat_created': False, 'text': 'https://drive.google.com/drive/u/0/folders/17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ', 'delete_chat_photo': False, 'chat': {'type': 'private', 'first_name': 'alpha', 'id': 1946475880}, 'message_id': 298, 'date': 1630680425, 'from': {'language_code': 'en', 'first_name': 'alpha', 'is_bot': False, 'id': 1946475880}}
+2021-09-03 14:47:05,671 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 14:47:05,671 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/0/folders/17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:47:05,671 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 14:47:05,671 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:47:05,677 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:47:05,697 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:47:07,541 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:47:07,541 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 14:47:07,541 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 14:47:07,542 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140688263984896.
+2021-09-03 14:47:07,546 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 14:47:07,566 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 14:47:08,122 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=100', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ}', 'gc:{0AOMvwHSOeQdvUk9PVA}']
+2021-09-03 14:59:07,568 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140688263984896: 
+Target directory：/viewerbackup
+
+<a href="https://drive.google.com/open?id=17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ">Viewer Access Direct Cloning</a>❌
+Checks： <code>10405 / 10405</code>
+Transfers： <code>845 / 13849</code>
+File size：<code>218.066G / 501.680 GBytes</code>
+Speed：<code>888.129 MBytes/s ETA 5m27s</code>
+Progress：<code>[░░░░      ]    6%</code>
+
+
+Finished.
+2021-09-03 15:01:04,881 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-09-03 15:01:04,888 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-09-03 15:01:04,888 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-09-03 15:01:04,888 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-09-03 15:01:05,049 - telegram.ext.updater - WARNING - Exiting immediately!
+2021-09-03 15:02:49,285 - utils.config_loader - DEBUG - Loading config
+2021-09-03 15:02:49,286 - utils.config_loader - INFO - Found telegram_token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 15:02:49,286 - utils.config_loader - INFO - Found user_ids: 1946475880
+2021-09-03 15:02:49,286 - utils.config_loader - INFO - Found group_ids: -1
+2021-09-03 15:02:49,287 - utils.config_loader - INFO - Found path_to_gclone: ../fclone
+2021-09-03 15:02:49,287 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-09-03 15:02:49,287 - utils.config_loader - INFO - Found gclone: ../fclone
+2021-09-03 15:02:49,287 - utils.config_loader - INFO - Found token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 15:02:49,297 - __main__ - INFO - loaded handler module: get_id
+2021-09-03 15:02:49,298 - __main__ - INFO - loaded handler module: contact
+2021-09-03 15:02:49,299 - __main__ - INFO - loaded handler module: start
+2021-09-03 15:02:49,597 - __main__ - INFO - loaded handler module: process_drive_links
+2021-09-03 15:02:49,598 - __main__ - INFO - loaded handler module: ban
+2021-09-03 15:02:49,599 - __main__ - INFO - loaded handler module: choose_folder
+2021-09-03 15:02:49,600 - __main__ - INFO - loaded handler module: get_help
+2021-09-03 15:02:49,601 - __main__ - INFO - loaded handler module: vip
+2021-09-03 15:02:49,602 - __main__ - INFO - loaded handler module: stop_task
+2021-09-03 15:02:49,603 - __main__ - INFO - loaded handler module: cancel
+2021-09-03 15:02:49,605 - __main__ - INFO - loaded handler module: sa
+2021-09-03 15:02:49,606 - __main__ - INFO - loaded handler module: add_group
+2021-09-03 15:02:49,608 - __main__ - INFO - loaded handler module: process_message
+2021-09-03 15:02:49,608 - apscheduler.scheduler - INFO - Scheduler started
+2021-09-03 15:02:49,609 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-09-03 15:02:49,610 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-09-03 15:02:53,974 - handlers.process_message - DEBUG - {'channel_chat_created': False, 'text': 'https://drive.google.com/drive/u/0/folders/17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ', 'new_chat_members': [], 'caption_entities': [], 'entities': [{'length': 76, 'type': 'url', 'offset': 0}], 'new_chat_photo': [], 'supergroup_chat_created': False, 'group_chat_created': False, 'photo': [], 'date': 1630681373, 'chat': {'id': 1946475880, 'first_name': 'alpha', 'type': 'private'}, 'delete_chat_photo': False, 'message_id': 302, 'from': {'id': 1946475880, 'first_name': 'alpha', 'is_bot': False, 'language_code': 'en'}}
+2021-09-03 15:02:53,976 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 15:02:53,976 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/0/folders/17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 15:02:53,977 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 15:02:53,977 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 15:02:53,985 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 15:02:54,015 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 15:02:55,830 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 15:02:55,830 - utils.helper - DEBUG - folder_id: 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ
+2021-09-03 15:02:55,830 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ.
+2021-09-03 15:02:55,831 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140084938512128.
+2021-09-03 15:02:55,835 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 15:02:55,856 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 15:02:56,453 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=32', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{17-oM7F2HpjsRXbUyFfDfb35llJz7vHqZ}', 'gc:{0AOMvwHSOeQdvUk9PVA}']
+2021-09-03 16:08:51,045 - utils.config_loader - DEBUG - Loading config
+2021-09-03 16:08:51,046 - utils.config_loader - INFO - Found telegram_token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 16:08:51,046 - utils.config_loader - INFO - Found user_ids: 1946475880
+2021-09-03 16:08:51,046 - utils.config_loader - INFO - Found group_ids: -1
+2021-09-03 16:08:51,047 - utils.config_loader - INFO - Found path_to_gclone: ../fclone
+2021-09-03 16:08:51,047 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-09-03 16:08:51,047 - utils.config_loader - INFO - Found gclone: ../fclone
+2021-09-03 16:08:51,047 - utils.config_loader - INFO - Found token: 1954727569:AAFJq1IDjTdFzMgO-wYNYEWqu0AVnqSbMm4
+2021-09-03 16:08:51,058 - __main__ - INFO - loaded handler module: get_id
+2021-09-03 16:08:51,060 - __main__ - INFO - loaded handler module: contact
+2021-09-03 16:08:51,060 - __main__ - INFO - loaded handler module: start
+2021-09-03 16:08:51,236 - __main__ - INFO - loaded handler module: process_drive_links
+2021-09-03 16:08:51,238 - __main__ - INFO - loaded handler module: ban
+2021-09-03 16:08:51,239 - __main__ - INFO - loaded handler module: choose_folder
+2021-09-03 16:08:51,240 - __main__ - INFO - loaded handler module: get_help
+2021-09-03 16:08:51,241 - __main__ - INFO - loaded handler module: vip
+2021-09-03 16:08:51,242 - __main__ - INFO - loaded handler module: stop_task
+2021-09-03 16:08:51,243 - __main__ - INFO - loaded handler module: cancel
+2021-09-03 16:08:51,245 - __main__ - INFO - loaded handler module: sa
+2021-09-03 16:08:51,246 - __main__ - INFO - loaded handler module: add_group
+2021-09-03 16:08:51,248 - __main__ - INFO - loaded handler module: process_message
+2021-09-03 16:08:51,248 - apscheduler.scheduler - INFO - Scheduler started
+2021-09-03 16:08:51,249 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-09-03 16:08:51,249 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-09-03 16:09:00,235 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 16:09:00,263 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 16:09:00,274 - handlers.choose_folder - DEBUG - 1946475880: choose_folder
+2021-09-03 16:09:00,561 - utils.google_drive - DEBUG - Received 20 drives
+2021-09-03 16:09:02,306 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 16:09:02,327 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 16:09:02,331 - handlers.choose_folder - DEBUG - 1946475880: choose_folder_page#1,0AIS27_9r1DUeUk9PVA
+2021-09-03 16:09:02,574 - utils.google_drive - DEBUG - Received 0 files
+2021-09-03 16:09:02,799 - utils.google_drive - DEBUG - [{'name': '10clone', 'folder_id': '0AIS27_9r1DUeUk9PVA'}]
+2021-09-03 16:09:09,164 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 16:09:09,186 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 16:09:09,397 - utils.google_drive - DEBUG - [{'name': '10clone', 'folder_id': '0AIS27_9r1DUeUk9PVA'}]
+2021-09-03 16:09:50,692 - handlers.process_message - DEBUG - {'message_id': 308, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630685390, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 62, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/0AERvZ1WEM3A4Uk9PVA', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 16:09:50,695 - utils.helper - DEBUG - folder_id: 0AERvZ1WEM3A4Uk9PVA
+2021-09-03 16:09:50,695 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/0AERvZ1WEM3A4Uk9PVA.
+2021-09-03 16:09:50,695 - utils.helper - DEBUG - folder_id: 0AERvZ1WEM3A4Uk9PVA
+2021-09-03 16:09:50,695 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 0AERvZ1WEM3A4Uk9PVA.
+2021-09-03 16:09:50,698 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 16:09:50,719 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 16:09:52,662 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=0AERvZ1WEM3A4Uk9PVA.
+2021-09-03 16:09:52,663 - utils.helper - DEBUG - folder_id: 0AERvZ1WEM3A4Uk9PVA
+2021-09-03 16:09:52,663 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 0AERvZ1WEM3A4Uk9PVA.
+2021-09-03 16:09:52,664 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140452804159232.
+2021-09-03 16:09:52,667 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 16:09:52,689 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 16:09:53,254 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=32', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{0AERvZ1WEM3A4Uk9PVA}', 'gc:{0AIS27_9r1DUeUk9PVA}']
+2021-09-03 16:55:06,993 - handlers.stop_task - INFO - User 1946475880 has stopped task 140452804159232
+2021-09-03 16:55:08,419 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140452804159232: 
+Target directory：/10clone
+
+<a href="https://drive.google.com/open?id=0AERvZ1WEM3A4Uk9PVA">Viewer Access Direct Cloning</a>❌
+Checks： <code>0 / 0</code>
+Transfers： <code>0 / 71944</code>
+File size：<code>0 / 96.633 TBytes</code>
+Speed：<code>0 Bytes/s ETA -</code>
+Progress：<code>[          ]    0%</code>
+<code>User terminated</code>
+
+
+Finished.
+2021-09-03 16:55:14,326 - handlers.process_message - DEBUG - {'message_id': 311, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630688114, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 62, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/0AERvZ1WEM3A4Uk9PVA', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 16:55:14,326 - utils.helper - DEBUG - folder_id: 0AERvZ1WEM3A4Uk9PVA
+2021-09-03 16:55:14,326 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/0AERvZ1WEM3A4Uk9PVA.
+2021-09-03 16:55:14,326 - utils.helper - DEBUG - folder_id: 0AERvZ1WEM3A4Uk9PVA
+2021-09-03 16:55:14,327 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 0AERvZ1WEM3A4Uk9PVA.
+2021-09-03 16:55:14,331 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 16:55:14,358 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 16:55:16,147 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=0AERvZ1WEM3A4Uk9PVA.
+2021-09-03 16:55:16,148 - utils.helper - DEBUG - folder_id: 0AERvZ1WEM3A4Uk9PVA
+2021-09-03 16:55:16,148 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 0AERvZ1WEM3A4Uk9PVA.
+2021-09-03 16:55:16,148 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140452804159232.
+2021-09-03 16:55:16,152 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 16:55:16,174 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 16:55:16,690 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=32', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{0AERvZ1WEM3A4Uk9PVA}', 'gc:{0AIS27_9r1DUeUk9PVA}']
+2021-09-03 17:34:54,699 - handlers.stop_task - INFO - User 1946475880 has stopped task 140452804159232
+2021-09-03 17:34:56,122 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140452804159232: 
+Target directory：/10clone
+
+<a href="https://drive.google.com/open?id=0AERvZ1WEM3A4Uk9PVA">Viewer Access Direct Cloning</a>❌
+Checks： <code>0 / 0</code>
+Transfers： <code>0 / 84549</code>
+File size：<code>0 / 101.501 TBytes</code>
+Speed：<code>0 Bytes/s ETA -</code>
+Progress：<code>[          ]    0%</code>
+<code>User terminated</code>
+
+
+Finished.
+2021-09-03 17:35:36,955 - handlers.process_message - DEBUG - {'message_id': 314, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630690536, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 76, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 17:35:36,955 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:35:36,955 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:35:36,955 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:35:36,955 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:35:36,959 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:35:36,984 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:35:48,594 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:35:48,616 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:35:48,621 - handlers.choose_folder - DEBUG - 1946475880: choose_folder
+2021-09-03 17:35:48,884 - utils.google_drive - DEBUG - Received 20 drives
+2021-09-03 17:35:50,853 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:35:50,872 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:35:50,876 - handlers.choose_folder - DEBUG - 1946475880: choose_folder_page#2
+2021-09-03 17:35:53,787 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:35:53,807 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:35:53,811 - handlers.choose_folder - DEBUG - 1946475880: choose_folder_page#1
+2021-09-03 17:35:55,458 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:35:55,493 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:35:55,497 - handlers.choose_folder - DEBUG - 1946475880: unchoose_folder_page#1,0AIS27_9r1DUeUk9PVA
+2021-09-03 17:35:55,791 - utils.google_drive - DEBUG - Received 18 files
+2021-09-03 17:35:55,977 - utils.google_drive - DEBUG - [{'name': '10clone', 'folder_id': '0AIS27_9r1DUeUk9PVA'}]
+2021-09-03 17:35:58,318 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:35:58,336 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:35:58,340 - handlers.choose_folder - DEBUG - 1946475880: choose_folder_page#1,1o7mYsjCaWJoDJqVGf3UAREv1XkKeiKWE
+2021-09-03 17:35:58,514 - utils.google_drive - DEBUG - Received 0 files
+2021-09-03 17:35:58,856 - utils.google_drive - DEBUG - [{'name': '10bit Collection', 'folder_id': '1o7mYsjCaWJoDJqVGf3UAREv1XkKeiKWE'}, {'name': '10clone', 'folder_id': '0AIS27_9r1DUeUk9PVA'}]
+2021-09-03 17:36:00,981 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:36:01,001 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:36:01,371 - utils.google_drive - DEBUG - [{'name': '10bit Collection', 'folder_id': '1o7mYsjCaWJoDJqVGf3UAREv1XkKeiKWE'}, {'name': '10clone', 'folder_id': '0AIS27_9r1DUeUk9PVA'}]
+2021-09-03 17:36:07,787 - handlers.process_message - DEBUG - {'message_id': 318, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630690567, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 76, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 17:36:07,788 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:36:07,788 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:36:07,788 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:36:07,788 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:36:07,791 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:36:07,811 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:36:09,452 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:36:09,452 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:36:09,452 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:36:09,453 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140452804159232.
+2021-09-03 17:36:09,457 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:36:09,475 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:36:09,978 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=32', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI}', 'gc:{1o7mYsjCaWJoDJqVGf3UAREv1XkKeiKWE}']
+2021-09-03 17:36:35,547 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140452804159232: 
+Target directory：/10clone/10bit Collection
+
+<a href="https://drive.google.com/open?id=1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI">Viewer Access Direct Cloning</a>❌
+Checks： <code>0 / 0</code>
+Transfers： <code>0 / 1</code>
+File size：<code>0 / 0 Bytes</code>
+Speed：<code>0 Bytes/s ETA -</code>
+Progress：<code>[          ]    0%</code>
+
+
+Finished.
+2021-09-03 17:36:51,323 - handlers.process_message - DEBUG - {'message_id': 321, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630690611, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 76, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 17:36:51,324 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:36:51,324 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:36:51,324 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:36:51,325 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:36:51,329 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:36:51,349 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:36:53,103 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:36:53,103 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:36:53,103 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:36:53,104 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140452804159232.
+2021-09-03 17:36:53,108 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:36:53,125 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:36:53,464 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=32', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI}', 'gc:{1o7mYsjCaWJoDJqVGf3UAREv1XkKeiKWE}']
+2021-09-03 17:37:20,692 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140452804159232: 
+Target directory：/10clone/10bit Collection
+
+<a href="https://drive.google.com/open?id=1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI">Viewer Access Direct Cloning</a>❌
+Checks： <code>0 / 0</code>
+Transfers： <code>0 / 1</code>
+File size：<code>0 / 0 Bytes</code>
+Speed：<code>0 Bytes/s ETA -</code>
+Progress：<code>[          ]    0%</code>
+
+
+Finished.
+2021-09-03 17:37:45,988 - handlers.process_message - DEBUG - {'message_id': 324, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630690665, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 76, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 17:37:45,988 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:37:45,988 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:37:45,988 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:37:45,988 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:37:45,992 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:37:46,012 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:37:46,089 - handlers.process_message - DEBUG - {'message_id': 325, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630690665, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 76, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 17:37:46,089 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:37:46,089 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:37:46,089 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:37:46,089 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:37:46,093 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:37:46,112 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:37:48,252 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:37:48,253 - utils.helper - DEBUG - folder_id: 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI
+2021-09-03 17:37:48,253 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI.
+2021-09-03 17:37:48,253 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140452804159232.
+2021-09-03 17:37:48,257 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:37:48,276 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:37:48,574 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=32', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI}', 'gc:{1o7mYsjCaWJoDJqVGf3UAREv1XkKeiKWE}']
+2021-09-03 17:38:14,418 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140452804159232: 
+Target directory：/10clone/10bit Collection
+
+<a href="https://drive.google.com/open?id=1PGEUJApE-ORfxyQfcio3RaIVHfFvAORI">Viewer Access Direct Cloning</a>❌
+Checks： <code>0 / 0</code>
+Transfers： <code>0 / 1</code>
+File size：<code>0 / 0 Bytes</code>
+Speed：<code>0 Bytes/s ETA -</code>
+Progress：<code>[          ]    0%</code>
+
+
+Finished.
+2021-09-03 17:38:25,788 - handlers.process_message - DEBUG - {'message_id': 329, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630690705, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 76, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/1StegCht11U_dZzQdthz3iysQi8Sj8dZw', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 17:38:25,788 - utils.helper - DEBUG - folder_id: 1StegCht11U_dZzQdthz3iysQi8Sj8dZw
+2021-09-03 17:38:25,788 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/1StegCht11U_dZzQdthz3iysQi8Sj8dZw.
+2021-09-03 17:38:25,788 - utils.helper - DEBUG - folder_id: 1StegCht11U_dZzQdthz3iysQi8Sj8dZw
+2021-09-03 17:38:25,788 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1StegCht11U_dZzQdthz3iysQi8Sj8dZw.
+2021-09-03 17:38:25,792 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:38:25,814 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:38:33,307 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:38:33,327 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:38:33,331 - handlers.choose_folder - DEBUG - 1946475880: choose_folder
+2021-09-03 17:38:33,553 - utils.google_drive - DEBUG - Received 20 drives
+2021-09-03 17:38:37,230 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:38:37,250 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:38:37,255 - handlers.choose_folder - DEBUG - 1946475880: unchoose_folder_page#1,0AIS27_9r1DUeUk9PVA
+2021-09-03 17:38:37,544 - utils.google_drive - DEBUG - Received 18 files
+2021-09-03 17:38:37,782 - utils.google_drive - DEBUG - [{'name': '10clone', 'folder_id': '0AIS27_9r1DUeUk9PVA'}]
+2021-09-03 17:38:39,322 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:38:39,341 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:38:39,345 - handlers.choose_folder - DEBUG - 1946475880: choose_folder_page#1,1xztBIigySz30sTKSn0JYXGFDR79AwUgq
+2021-09-03 17:38:41,306 - utils.google_drive - DEBUG - Received 1000 files
+2021-09-03 17:38:42,771 - utils.google_drive - DEBUG - Received 1000 files
+2021-09-03 17:38:43,331 - utils.google_drive - DEBUG - Received 244 files
+2021-09-03 17:38:43,664 - utils.google_drive - DEBUG - [{'name': '3000+ Movies Random Collection', 'folder_id': '1xztBIigySz30sTKSn0JYXGFDR79AwUgq'}, {'name': '10clone', 'folder_id': '0AIS27_9r1DUeUk9PVA'}]
+2021-09-03 17:38:46,784 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:38:46,806 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:38:47,195 - utils.google_drive - DEBUG - [{'name': '3000+ Movies Random Collection', 'folder_id': '1xztBIigySz30sTKSn0JYXGFDR79AwUgq'}, {'name': '10clone', 'folder_id': '0AIS27_9r1DUeUk9PVA'}]
+2021-09-03 17:38:53,981 - handlers.process_message - DEBUG - {'message_id': 333, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630690733, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 76, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/1StegCht11U_dZzQdthz3iysQi8Sj8dZw', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 17:38:53,982 - utils.helper - DEBUG - folder_id: 1StegCht11U_dZzQdthz3iysQi8Sj8dZw
+2021-09-03 17:38:53,982 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/1StegCht11U_dZzQdthz3iysQi8Sj8dZw.
+2021-09-03 17:38:53,982 - utils.helper - DEBUG - folder_id: 1StegCht11U_dZzQdthz3iysQi8Sj8dZw
+2021-09-03 17:38:53,982 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1StegCht11U_dZzQdthz3iysQi8Sj8dZw.
+2021-09-03 17:38:53,985 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:38:54,003 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:38:55,813 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=1StegCht11U_dZzQdthz3iysQi8Sj8dZw.
+2021-09-03 17:38:55,813 - utils.helper - DEBUG - folder_id: 1StegCht11U_dZzQdthz3iysQi8Sj8dZw
+2021-09-03 17:38:55,813 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 1StegCht11U_dZzQdthz3iysQi8Sj8dZw.
+2021-09-03 17:38:55,814 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140452804159232.
+2021-09-03 17:38:55,817 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:38:55,836 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:38:56,155 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=32', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{1StegCht11U_dZzQdthz3iysQi8Sj8dZw}', 'gc:{1xztBIigySz30sTKSn0JYXGFDR79AwUgq}']
+2021-09-03 17:43:27,500 - handlers.stop_task - INFO - User 1946475880 has stopped task 140452804159232
+2021-09-03 17:43:28,625 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140452804159232: 
+Target directory：/10clone/3000+ Movies Random Collection
+
+<a href="https://drive.google.com/open?id=1StegCht11U_dZzQdthz3iysQi8Sj8dZw">Viewer Access Direct Cloning</a>❌
+Checks： <code>0 / 0</code>
+Transfers： <code>0 / 1</code>
+File size：<code>0 / 0 Bytes</code>
+Speed：<code>0 Bytes/s ETA -</code>
+Progress：<code>[          ]    0%</code>
+<code>User terminated</code>
+
+
+Finished.
+2021-09-03 17:43:29,715 - handlers.process_message - DEBUG - {'message_id': 336, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630691009, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 62, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/0AB80JdULNDNYUk9PVA', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 17:43:29,715 - utils.helper - DEBUG - folder_id: 0AB80JdULNDNYUk9PVA
+2021-09-03 17:43:29,716 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/0AB80JdULNDNYUk9PVA.
+2021-09-03 17:43:29,716 - utils.helper - DEBUG - folder_id: 0AB80JdULNDNYUk9PVA
+2021-09-03 17:43:29,716 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 0AB80JdULNDNYUk9PVA.
+2021-09-03 17:43:29,720 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:43:29,749 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:43:32,266 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=0AB80JdULNDNYUk9PVA.
+2021-09-03 17:43:32,267 - utils.helper - DEBUG - folder_id: 0AB80JdULNDNYUk9PVA
+2021-09-03 17:43:32,267 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 0AB80JdULNDNYUk9PVA.
+2021-09-03 17:43:32,267 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140452804159232.
+2021-09-03 17:43:32,271 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 17:43:32,291 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 17:43:32,601 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=32', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{0AB80JdULNDNYUk9PVA}', 'gc:{0AOMvwHSOeQdvUk9PVA}']
+2021-09-03 18:45:10,714 - handlers.process_message - DEBUG - {'message_id': 339, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630694710, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [], 'text': 'g', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 19:58:04,399 - handlers.stop_task - INFO - User 1946475880 has stopped task 140452804159232
+2021-09-03 19:58:05,662 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140452804159232: 
+Target directory：/viewerbackup
+
+<a href="https://drive.google.com/open?id=0AB80JdULNDNYUk9PVA">Viewer Access Direct Cloning</a>❌
+Checks： <code>73750 / 73750</code>
+Transfers： <code>37257 / 40913</code>
+File size：<code>2.521T / 2.522 TBytes</code>
+Speed：<code>344.614 MBytes/s ETA 1s</code>
+Progress：<code>[█████████░]   91%</code>
+<code>User terminated</code>
+
+
+Finished.
+2021-09-03 19:58:10,756 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 19:58:10,782 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 19:58:10,788 - handlers.choose_folder - DEBUG - 1946475880: choose_folder
+2021-09-03 19:58:11,075 - utils.google_drive - DEBUG - Received 20 drives
+2021-09-03 19:58:13,257 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 19:58:13,279 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 19:58:13,283 - handlers.choose_folder - DEBUG - 1946475880: choose_folder_page#1,0AMYdaOu0fRwnUk9PVA
+2021-09-03 19:58:13,597 - utils.google_drive - DEBUG - Received 0 files
+2021-09-03 19:58:13,845 - utils.google_drive - DEBUG - [{'name': '4clone', 'folder_id': '0AMYdaOu0fRwnUk9PVA'}]
+2021-09-03 19:58:15,285 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 19:58:15,304 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 19:58:15,528 - utils.google_drive - DEBUG - [{'name': '4clone', 'folder_id': '0AMYdaOu0fRwnUk9PVA'}]
+2021-09-03 19:58:25,010 - handlers.process_message - DEBUG - {'message_id': 342, 'photo': [], 'group_chat_created': False, 'supergroup_chat_created': False, 'caption_entities': [], 'date': 1630699104, 'chat': {'type': 'private', 'id': 1946475880, 'first_name': 'alpha'}, 'entities': [{'length': 76, 'type': 'url', 'offset': 0}], 'text': 'https://drive.google.com/drive/u/1/folders/1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW', 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_photo': [], 'from': {'id': 1946475880, 'first_name': 'alpha', 'language_code': 'en', 'is_bot': False}}
+2021-09-03 19:58:25,010 - utils.helper - DEBUG - folder_id: 1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW
+2021-09-03 19:58:25,010 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/u/1/folders/1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW.
+2021-09-03 19:58:25,010 - utils.helper - DEBUG - folder_id: 1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW
+2021-09-03 19:58:25,011 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW.
+2021-09-03 19:58:25,014 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 19:58:25,035 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 19:58:27,610 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning: https://drive.google.com/open?id=1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW.
+2021-09-03 19:58:27,610 - utils.helper - DEBUG - folder_id: 1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW
+2021-09-03 19:58:27,610 - handlers.process_drive_links - DEBUG - Found Viewer Access Direct Cloning with folder_id 1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW.
+2021-09-03 19:58:27,610 - handlers.process_drive_links - DEBUG - User 1946475880 has added task 140452804159232.
+2021-09-03 19:58:27,615 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-03 19:58:27,635 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-03 19:58:28,131 - utils.fire_save_files - DEBUG - command line: ['../fclone', 'copy', '-P', '--stats', '1s', '--ignore-existing', '--transfers=32', '--drive-chunk-size=64M', '--drive-pacer-min-sleep=1ms', '--drive-pacer-burst=5000', '--check-first', '--config', '/home/alphakas/clientbot/telegram_gcloner/gclone_config/1946475880/current/rclone.conf', 'src:{1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW}', 'gc:{0AMYdaOu0fRwnUk9PVA}']
+2021-09-03 19:59:24,561 - utils.fire_save_files - DEBUG - User 1946475880 has finished task 140452804159232: 
+Target directory：/4clone
+
+<a href="https://drive.google.com/open?id=1VLG2gNDbz3F9s5UXYLBpoD-hbAMYS8OW">Viewer Access Direct Cloning</a>✅
+Checks： <code>0 / 0</code>
+Transfers： <code>106 / 106</code>
+File size：<code>42.558G / 42.558 GBytes</code>
+Speed：<code>835.349 MBytes/s ETA 0s</code>
+Progress：<code>[██████████]  100%</code>
+
+
+Finished.
+2021-09-03 20:06:05,105 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-09-03 20:06:05,107 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-09-03 20:06:05,107 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-09-03 20:06:05,108 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-09-03 20:06:05,615 - telegram.ext.updater - WARNING - Exiting immediately!
